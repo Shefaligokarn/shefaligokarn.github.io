@@ -1,6 +1,6 @@
 # AI Projects
 
-## Project 1: Sentiment Analysis using TensorFlow
+## Project 1: find movie similarities from plus
 
 ![Sentiment Analysis](images/sentiment-analysis.png)
 
